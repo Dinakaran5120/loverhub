@@ -68,3 +68,37 @@ Include:
 - Community join request logic
 
 Return only source code.
+
+7.Continue Lovrhub.
+
+Generate ONLY Notifications system.
+
+Generate code for notifications for:
+
+- Follows
+- Messages
+- Requests
+- Likes
+- Comments
+- Community posts
+- Profile views
+
+Include bell icon notification center.
+
+Return only source code.
+
+8.Continue Lovrhub.
+
+Generate ONLY Connections feature.
+
+Generate code for:
+
+- Real-time chat
+- Group chat
+- Audio calling
+- Video calling
+- 5 minute call timer
+
+Generate working development implementation.
+
+Return only source code.
